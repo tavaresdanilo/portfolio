@@ -1,5 +1,5 @@
 <template>
-    <div class="bg-[#FCF5EB] h-screen m-[0] p-[0] box-border flex justify-center items-center flex-col select-none">
+    <div class="bg-[#FCF5EB] h-lvh m-[0] p-[0] box-border flex justify-center items-center flex-col select-none">
     <div class="h-1/3 w-full flex flex-col justify-start items-center p-[3rem] md:p-[6rem]">
       <p class="text-xl md:text-3xl font-semibold text-neutral-700 text-justify">
         Sou um profissional em constante aprendizado. Atráves de projetos pesssoais, tenho aprimorado minhas habilidades ao ganhar conhecimento e experiência em tecnologias, como:
